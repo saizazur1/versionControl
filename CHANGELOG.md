@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/saizazur1/versionControl/compare/v0.1.2...v0.2.0) (2021-11-26)
+
+
+### Features
+
+* new feature ([856538d](https://github.com/saizazur1/versionControl/commit/856538db550c4e99015ae41ed4ba9b5640d933e4))
+
+
+
 ## [0.1.2](https://github.com/saizazur1/versionControl/compare/v0.1.1...v0.1.2) (2021-11-26)
 
 
