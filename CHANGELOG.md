@@ -1,3 +1,7 @@
+## [1.1.1](https://github.com/saizazur1/versionControl/compare/v1.1.0...v1.1.1) (2021-11-27)
+
+
+
 # [1.1.0](https://github.com/saizazur1/versionControl/compare/v1.0.0...v1.1.0) (2021-11-27)
 
 
@@ -31,15 +35,6 @@
 ### Bug Fixes
 
 * again ([01689a7](https://github.com/saizazur1/versionControl/commit/01689a7063f4b0a8996fdd4910575523424951eb))
-
-
-
-## [0.1.1](https://github.com/saizazur1/versionControl/compare/v0.1.0...v0.1.1) (2021-11-23)
-
-
-### Bug Fixes
-
-* bug 2 ([6491b79](https://github.com/saizazur1/versionControl/commit/6491b79581bf6d2bd6c070285995e23aecde7d1c))
 
 
 
