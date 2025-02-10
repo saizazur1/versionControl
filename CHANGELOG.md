@@ -1,3 +1,12 @@
+# [2.4.0](https://github.com/saizazur1/versionControl/compare/v2.3.0...v2.4.0) (2025-02-10)
+
+
+### Features
+
+* BREAKING CHANGE ([3c8c344](https://github.com/saizazur1/versionControl/commit/3c8c3445bf27934c6a91231c70feb4ee2fd776ab))
+
+
+
 # [2.3.0](https://github.com/saizazur1/versionControl/compare/v2.2.1...v2.3.0) (2025-02-10)
 
 
@@ -35,10 +44,6 @@
 
 
 ## [1.1.2](https://github.com/saizazur1/versionControl/compare/v1.1.1...v1.1.2) (2021-11-27)
-
-
-
-## [1.1.1](https://github.com/saizazur1/versionControl/compare/v1.1.0...v1.1.1) (2021-11-27)
 
 
 
