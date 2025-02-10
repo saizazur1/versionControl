@@ -1,3 +1,12 @@
+## [2.2.1](https://github.com/saizazur1/versionControl/compare/v2.2.0...v2.2.1) (2025-02-10)
+
+
+### Bug Fixes
+
+* nothing ([9717df0](https://github.com/saizazur1/versionControl/commit/9717df0654db4f1e8d87ed23502900d973881a16))
+
+
+
 # [2.2.0](https://github.com/saizazur1/versionControl/compare/v1.1.2...v2.2.0) (2025-02-10)
 
 
@@ -30,15 +39,6 @@
 ### Features
 
 * Hello world ([877890a](https://github.com/saizazur1/versionControl/commit/877890aa8d91db218f5671529a09bfab6dbe6658))
-
-
-
-# [1.0.0](https://github.com/saizazur1/versionControl/compare/v0.2.0...v1.0.0) (2021-11-27)
-
-
-### Bug Fixes
-
-* file fixed ([d92471c](https://github.com/saizazur1/versionControl/commit/d92471ccdeae2a1e4817d115a7e60ebca84acbc0))
 
 
 
