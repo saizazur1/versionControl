@@ -1,3 +1,12 @@
+# [3.6.0](https://github.com/saizazur1/versionControl/compare/v3.5.1...v3.6.0) (2025-02-11)
+
+
+### Features
+
+* test ([dcba319](https://github.com/saizazur1/versionControl/commit/dcba319c000fa4b6f1001d0ebf3ba1b1c7dfae8b))
+
+
+
 ## [3.5.1](https://github.com/saizazur1/versionControl/compare/v2.5.0...v3.5.1) (2025-02-10)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * nothing mush ([556e0a2](https://github.com/saizazur1/versionControl/commit/556e0a24316d6a1db25f7197f48e6f3df7eb2ca7))
-
-
-
-## [2.2.1](https://github.com/saizazur1/versionControl/compare/v2.2.0...v2.2.1) (2025-02-10)
-
-
-### Bug Fixes
-
-* nothing ([9717df0](https://github.com/saizazur1/versionControl/commit/9717df0654db4f1e8d87ed23502900d973881a16))
 
 
 
