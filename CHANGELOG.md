@@ -1,3 +1,12 @@
+## [3.6.1](https://github.com/saizazur1/versionControl/compare/v3.6.0...v3.6.1) (2025-02-11)
+
+
+### Bug Fixes
+
+* test ([8753470](https://github.com/saizazur1/versionControl/commit/8753470d91eb14db2667efa35ae98db34ebcf13a))
+
+
+
 # [3.6.0](https://github.com/saizazur1/versionControl/compare/v3.5.1...v3.6.0) (2025-02-11)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * BREAKING CHANGE ([3c8c344](https://github.com/saizazur1/versionControl/commit/3c8c3445bf27934c6a91231c70feb4ee2fd776ab))
-
-
-
-# [2.3.0](https://github.com/saizazur1/versionControl/compare/v2.2.1...v2.3.0) (2025-02-10)
-
-
-### Features
-
-* nothing mush ([556e0a2](https://github.com/saizazur1/versionControl/commit/556e0a24316d6a1db25f7197f48e6f3df7eb2ca7))
 
 
 
